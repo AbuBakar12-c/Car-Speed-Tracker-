@@ -29,6 +29,7 @@ It helps improve traffic monitoring, road safety, and law enforcement by identif
 
 4️⃣ Display & Log Data – Speed data is shown on-screen and stored for reporting.
 
+
 🔧 Installation & Setup
 
 # Create a virtual environment (optional but recommended)
